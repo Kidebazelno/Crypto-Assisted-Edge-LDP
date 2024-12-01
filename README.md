@@ -9,7 +9,8 @@ python3 edge_ldp.py
 The output will be the comparison of the modified method and the original method in [1].
 
 ## Results
-![](/TestResults/facebook_dataset3.png)
+![](https://github.com/Kidebazelno/Crypto-Assisted-Edge-LDP/blob/main/Test%20Results/facebook_dataset3.png) ![](https://github.com/Kidebazelno/Crypto-Assisted-Edge-LDP/blob/main/Test%20Results/n_vs_l2_error_save.png)
+
 
 ## Reference
 [1] J. Imola, T. Murakami, and K. Chaudhuri, “Locally differentially private analysis of graph statistics,” in 30th USENIX Security Symposium (USENIX Security 21), 2021, pp. 983–1000. \
