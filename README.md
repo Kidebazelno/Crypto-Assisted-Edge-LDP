@@ -9,7 +9,7 @@ python3 edge_ldp.py
 The output will be the comparison of the modified method and the original method in [1].
 
 ## Results
-![](https://github.com/Kidebazelno/Crypto-Assisted-Edge-LDP/blob/main/Test%20Results/facebook_dataset3.png) ![](https://github.com/Kidebazelno/Crypto-Assisted-Edge-LDP/blob/main/Test%20Results/n_vs_l2_error_save.png)
+![](https://github.com/Kidebazelno/Crypto-Assisted-Edge-LDP/blob/main/Test%20Results/facebook_dataset.png) ![](https://github.com/Kidebazelno/Crypto-Assisted-Edge-LDP/blob/main/Test%20Results/n_vs_l2_error.png)
 
 
 ## Reference
